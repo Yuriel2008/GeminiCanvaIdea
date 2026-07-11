@@ -1,0 +1,4 @@
+# Gemini Canva Idea | Structure | 2026-07-11 17:16:05
+
+.
+└── index.html
